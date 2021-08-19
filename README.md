@@ -1,2 +1,2 @@
-# smoothNavbar
+# 2Stage
 Created with CodeSandbox
