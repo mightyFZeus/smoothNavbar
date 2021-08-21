@@ -40,9 +40,9 @@ export default function App() {
                 <div className="social_box">
                 <h3>Connect With Me</h3>
                   <div className="social_icons">
-                    <a href="https://github.com/kadetXx"><i className='fab fa-github'></i></a> 
-                    <a href="https://twitter.com/kadetXx"><i className='fab fa-twitter'></i></a>
-                    <a href="https://www.linkedin.com/in/collins-enebeli-online/"><i className="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/mightyFzeus"><i className='fab fa-github'></i></a> 
+                    <a href="https://twitter.com/mightyzeus9"><i className='fab fa-twitter'></i></a>
+//                     <a href="https://www.linkedin.com/in/collins-enebeli-online/"><i className="fab fa-linkedin"></i></a>
                   </div>
                 </div>
               </div>
